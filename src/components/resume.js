@@ -22,16 +22,16 @@ class Resume extends Component {
             <h2 style={{paddingTop: '2em'}}>Shashank Singh</h2>
             <h4 style={{color: 'grey'}}>Programmer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <p>Enthusiastic Web developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Web development technologies and continuously learning more in the same. Motivated to learn, grow and excel in IT industry.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
-            <p>1 Hacker Way Menlo Park, 94025</p>
+            <p>Opp Bangalore Bazaar,Near Karnataka Gramin Bank,Ashok Men's Residence, Bellandur, Bangalore Karnataka</p>
             <h5>Phone</h5>
-            <p>(123) 456-7890</p>
+            <p>+91 9598425068</p>
             <h5>Email</h5>
-            <p>someone@example.com</p>
+            <p>shashank08090@gmail.com</p>
             <h5>Web</h5>
-            <p>mywebsite.com</p>
+            <p>https://portfolio8090.herokuapp.com/resume</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
@@ -39,34 +39,34 @@ class Resume extends Component {
 
 
             <Education
-              startYear={2002}
-              endYear={2006}
+              startYear={2014}
+              endYear={2018}
               schoolName="My University"
-              schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              schoolDescription="BBD-NITM , Abdul Kalam Technical University,Lucknow,Uttar Pradesh"
                />
 
                <Education
-                 startYear={2007}
-                 endYear={2009}
-                 schoolName="My 2nd University"
-                 schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                 startYear={2020}
+                 endYear={2020}
+                 schoolName="Coding Ninjas"
+                 schoolDescription="Learnt Full stack web development- HTML CSS Javascript ReactJS(Primary Skill) "
                   />
                 <hr style={{borderTop: '3px solid #e22947'}} />
 
               <h2>Experience</h2>
 
             <Experience
-              startYear={2009}
-              endYear={2012}
-              jobName="First Job"
-              jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              startYear={2019}
+              endYear={2021}
+              jobName="A4 Analyst - Capgemini"
+              jobDescription="Worked in SAP / Full stack web developer in several project in capgemini"
               />
 
               <Experience
-                startYear={2012}
-                endYear={2016}
-                jobName="Second Job"
-                jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                startYear={2020}
+                endYear={2021}
+                jobName="Web developer"
+                jobDescription=" Have worked in HTML CSS Bootstrap ReactJs,built several projects (1) Portfolio website (2)Food delivery website "
                 />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
