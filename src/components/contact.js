@@ -11,7 +11,7 @@ class Contact extends Component {
           <Cell col={6}>
             <h2>Shashank Singh</h2>
             <img
-              src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+              src="Shashank_Singh.jpeg"
               alt="avatar"
               style={{height: '250px'}}
                />
